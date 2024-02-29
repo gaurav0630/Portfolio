@@ -1,28 +1,28 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "AI/ML Developer",
+      "organisation": "Reccopilot",
+      "startDate": "Jan, 2024",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": ["Worked on text-embeddings, Vector database and currently workin on UI"],
       "imageSrc": "history/google.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "role": "Web Developer",
+      "organisation": "Valenceware Services",
+      "startDate": "Feb, 2023",
+      "endDate": "July, 2023",
+      "experiences": ["Worked on MyLynk", "Designed the fully functional Website"],
       "imageSrc": "history/microsoft.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Web Developer",
+      "organisation": "Acmegrade",
+      "startDate": "April, 2022",
+      "endDate": "June, 2022",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Worked on E-commerce website",
+        "Designed the fully functional Website called LeamerDealz"
       ],
       "imageSrc": "history/netflix.png"
     }
