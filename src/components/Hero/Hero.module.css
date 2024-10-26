@@ -35,9 +35,18 @@ background-clip: text;
 }
 
 .description {
-  font-size: 30px;
+  font-size: 25px;
   font-family: var(--font-roboto);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 70%,
+    rgba(255, 255, 255, 0) 120%
+  );
+  -webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+background-clip: text;
   margin-bottom: 52px;
+  margin-right: 50px;
 }
 
 .contactBtn {
